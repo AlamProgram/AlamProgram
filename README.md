@@ -1,5 +1,5 @@
 
-![AlamProgram](img\image.jpg)
+![AlamProgram](img/image.jpg)
 
 ## Hi all, I'm Dzul 
 
